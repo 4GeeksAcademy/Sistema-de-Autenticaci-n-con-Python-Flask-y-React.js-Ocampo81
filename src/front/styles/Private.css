@@ -1,0 +1,35 @@
+.private-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.private-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.private-container p {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.private-container button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.private-container button:hover {
+    background-color: #c82333;
+}
